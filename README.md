@@ -33,7 +33,7 @@ This is a Python-based chatbot that fetches information from Wikipedia based on 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/sanketjadhav09/Wikipedia-Chatbot.git
+   git clone https://github.com/124-123/Wikipedia-Chatbot.git
    cd Wikipedia-Chatbot
    ```
 2. **Install the required libraries**:
